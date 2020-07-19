@@ -1,0 +1,1 @@
+db.expenses.find({ _id: ObjectId('5f12ff0e88a12507c05fd1df') });
